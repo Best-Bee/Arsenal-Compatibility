@@ -7,7 +7,7 @@ Please Note that this datapack requires the following mods and their dependencie
 Download instructions
 
   - Download arsenal-compatibility.zip directly from here or from Modrinth https://modrinth.com/datapack/arsenal-compatibility
-  - Place arsenal-compatibility.zip in your datapacks folder of your world save
+  - Place arsenal-compatibility.zip in the datapacks folder of your world save
       - Example path: C:\Users\[username]\AppData\Roaming\ModrinthApp\profiles\[profileName]\saves\[worldName]\datapacks
   - Open your world and the datapack should be working
   - Enjoy :3
