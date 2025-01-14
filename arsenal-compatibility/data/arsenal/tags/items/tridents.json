@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:trident",
+    "aquamirae:sweet_lance",
+    "aquamirae:coral_lance",
+    "aquamirae:whisper_of_the_abyss",
+    "the_bumblezone:stinger_spear"
+  ]
+}
