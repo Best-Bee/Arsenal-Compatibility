@@ -1,3 +1,9 @@
+Please Note that this datapack requires the following mods and their dependencies to work as intended
+  - Arsenal by RAT
+  - Aquamirae by Obscuria
+  - BetterEnd by BetterX
+  - The Bumblezone by TelepathicGrunt 
+
 Download instructions
 
   - Download arsenal-compatibility.zip
